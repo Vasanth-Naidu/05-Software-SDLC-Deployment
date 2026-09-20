@@ -67,6 +67,5 @@
 * **No-Code / Low-Code Tool Architecture:** Designing intuitive drag-and-drop user interfaces (SQL Genie) that hide complex SQL logic from end-users.
 * **Enterprise Software Scaling & Internal Marketing:** Managing end-to-end SDLC, user tech support, and cross-departmental product marketing to scale adoption to 9,000+ users.
 
-```
 
 ---

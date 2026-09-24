@@ -22,7 +22,6 @@
 ---
 
 ## 1. End-to-End Operational Workflow & Business Problem:
-
 Auditing relocation expenses sits at the intersection of two critical documents: the **employee's submitted receipt/invoice** and the **client’s specific policy exhibit**. The entire workflow converts *"employee/vendor spent money"* into *"client owes reimbursement for this specific, policy-eligible amount."*
 
 ```text
@@ -57,8 +56,9 @@ Performing this 5-stage line-item verification against 1,000+ pages of physical 
 ---
 
 ## 2. System Architecture & Iterative Rollout
-
 The **Cendant Wizard** transformed manual binder lookup into an automated reference and visual verification engine powered by 6 core parameters:
+
+![Cendant Wizard System Architecture](./Assets/16-CendantWizard-System-Architecture.png)
 
 ```text
 ┌──────────────────────────────────────────────┐     ┌──────────────────────────────────────────────┐
@@ -87,6 +87,7 @@ The **Cendant Wizard** transformed manual binder lookup into an automated refere
 5. **Payment Terms:** Maps client billing windows, service fees, and Net-30/60 schedules.
 6. **Move Type/ Service Category:** Filters rules for household goods shipping, real estate closing, temporary housing, or self-move.
 
+
 ### Iterative SDLC Deployment Strategy:
 To guarantee software stability and build trust across the audit floor:
 * **Contract Digitisation:** Structured and ingested 1,000+ pages of dense contract pricing tables, policy caps, and state rules into SQL database tables.
@@ -107,6 +108,8 @@ To guarantee software stability and build trust across the audit floor:
 
 ## 4. Measurable Business Results & Operational Impact
 
+![Cendant Wizard Before & After Transformation](./Assets/16-CendantWizard-Before-After-Transformation.png)
+
 | ⚙️ Operational Dimension | 🛑 Legacy Manual Audit Model | 🎯 Cendant Wizard Platform | ⚡ Operational Impact |
 | --- | --- | --- | --- |
 | **Daily Audit Throughput** | 2 – 4 audits / auditor / day | **10+ audits / auditor / day** | **5x productivity jump** across the operational line. |
@@ -117,7 +120,7 @@ To guarantee software stability and build trust across the audit floor:
 
 ---
 
-## 5. Key Competencies Demonstrated
+## 5. Key Competencies Demonstrated:
 
 * **Grit & Citizen Developer Origin:** Evolved from a junior auditor facing performance risks into a self-taught VB5/SQL developer leveraging early web search, mentor guidance, and vendor interaction.
 * **Process Decomposition & Digitisation:** Mapped 1,000+ pages of unstructured contract rules into an elegant 6-parameter input and baseline rendering model.

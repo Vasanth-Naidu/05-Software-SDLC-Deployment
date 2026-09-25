@@ -42,8 +42,9 @@ During a Six Sigma Green Belt DMAIC *Define & Measure* phase, a critical operati
 ---
 
 ## 2. Solution Architecture & Automated ETL Pipeline:
-
 Collaborating as the lead developer during the *Analyse & Improve* stages of the Green Belt project, I architected **Solution Wizard** to bridge the gap between complex SQL databases and non-technical operational users:
+
+![Solution Wizard System Architecture](./Assets/17-SolutionWizard-System-Architecture.png)
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
@@ -103,6 +104,8 @@ Collaborating as the lead developer during the *Analyse & Improve* stages of the
 ---
 
 ## 4. Measurable Business Results & Operational Impact:
+
+![Solution Wizard Before & After Transformation](./Assets/17-SolutionWizard-Before-After-Transformation.png)
 
 | Performance Metric | 🛑 Baseline State (Pre-Solution Wizard) | 🎯 Post-Deployment State (Solution Wizard) | 💡 Strategic Value |
 | --- | --- | --- | --- |

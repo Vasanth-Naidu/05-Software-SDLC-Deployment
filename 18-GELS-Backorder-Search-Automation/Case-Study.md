@@ -42,8 +42,9 @@ GE Medical Systems (GEMS) Europe relied on Global Equipment Logistics System (GE
 ---
 
 ## 2. System Architecture & Latency-Aware OOPs Loop:
-
 The solution established a programmatic, dual-terminal object model in **VB5**:
+
+![GELS Automation System Architecture](./Assets/18-GELS-System-Architecture.png)
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
@@ -75,7 +76,6 @@ The solution established a programmatic, dual-terminal object model in **VB5**:
 ```
 
 ### Key Architectural Pillars:
-
 1. **Zero-Persistence Session Security:** The GEMS representative logged into the VB5 tool at shift start, entering mainframe credentials that were kept strictly in volatile memory (eliminated local database and storage to strictly align with GDPR regulations across EEA Countries).
 2. **Programmatic Dual-Instance Control:** VB5 dynamically launched and took direct object control over **two parallel Hummingbird Host-Explorer terminal windows** via COM/OLE automation objects.
 3. **Dual-Instance Matcher:**
@@ -96,6 +96,7 @@ The solution established a programmatic, dual-terminal object model in **VB5**:
 ---
 
 ## 4. Measurable Business Results & Operational Impact:
+![GELS Automation Before & After Transformation](./Assets/18-GELS-Before-After-Transformation.png)
 
 | Operational Dimension | 🛑 Baseline State (Pre-Automation) | 🎯 Post-Deployment State (GELS Engine) | ⚡ Operational Impact |
 | --- | --- | --- | --- |

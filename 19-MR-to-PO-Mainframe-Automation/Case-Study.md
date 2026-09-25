@@ -44,6 +44,8 @@ The Global Asset Management (GAM) India team within GEMS USA managed proactive i
 ## 2. System Architecture & Automated Ingestion Loop:
 The solution established an automated FTP-to-Mainframe pipeline powered by **VB5** and **Hummingbird Terminal Emulation**:
 
+![MR to PO System Architecture](./Assets/19-MRtoPO-System-Architecture.png)
+
 ```text
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
 │                      MR TO PO AUTOMATED EXECUTION PIPELINE                             │
@@ -73,7 +75,6 @@ The solution established an automated FTP-to-Mainframe pipeline powered by **VB5
 ```
 
 ### Key Architectural Pillars:
-
 1. **Automated FTP Ingestion & Parsing:** Programmatically connected to GEMS FTP servers, pulled daily MR reports, and loaded pending parts directly into the volatile VB5 memory buffer (no disk persistence).
 2. **Embedded Rule Engine & Exception Interceptor:** Pre-screened each line item against exceptional vendor directories, restricted part lists, and pricing rules—flagging anomalies *before* mainframe entry to eliminate human error.
 3. **Single-Screen Unified GUI:** Displayed all decision-making context (part specs, vendor history, calculated unit cost) alongside an instant "Execute PO" interface, eliminating multi-window toggling.
@@ -92,6 +93,8 @@ The solution established an automated FTP-to-Mainframe pipeline powered by **VB5
 ---
 
 ## 4. Measurable Business Results & Operational Impact:
+
+![MR to PO Before & After Transformation](./Assets/19-MRtoPO-Before-After-Transformation.png)
 
 | Operational Dimension | 🛑 Baseline State (Pre-Automation) | 🎯 Post-Deployment State (MR-PO Engine) | ⚡ Operational Impact |
 | --- | --- | --- | --- |

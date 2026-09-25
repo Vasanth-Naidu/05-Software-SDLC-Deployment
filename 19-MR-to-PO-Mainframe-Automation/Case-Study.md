@@ -4,14 +4,14 @@
 
 * **Enterprise Context:** GE Capital International Services (GECIS) — GE Medical Systems USA (GEMS USA Operations/ Global Asset Management - GAM India)
 * **Role:** Lead Automation Software Engineer & SDLC Owner (Citizen Developer)
-* **Best Practice Replication Origin:** Spurred directly as a cross-account best-practice expansion from the success of **Project 18 (GELS Backorder Automation)**. Recognised by GEMS USA leadership for pioneering work on mainframe emulator terminal automations, GEMS USA leadership invited me to solve a similar manual Purchase Order entry bottleneck within their Global Asset Management (GAM) India team.
-* **Core Value Delivered:** Concepted, engineered, deployed, and maintained **MR to PO Mainframe Automation**, a Visual Basic 5 (VB5) desktop application integrated with Hummingbird Host-Explorer terminal emulation. The engine automated the ingestion of daily FTP Material Request (MR) reports, cross-referenced exceptional vendor/part verification rules, auto-calculated pricing entries, and executed direct Purchase Order (PO) keying into the legacy USA mainframe—with zero local database persistence, pushing all completion outputs directly to MS Excel.
+* **Best Practice Replication Origin:** Spurred directly as a cross-account best-practice expansion from the success of **[Project 18 (GELS Backorder Automation)](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment/tree/main/18-GELS-Backorder-Search-Automation)**. Recognised by GEMS USA leadership for pioneering work on mainframe emulator terminal automations, GEMS USA leadership invited me to solve a similar manual Purchase Order entry bottleneck within their Global Asset Management (GAM) India team.
+* **Core Value Delivered:** Concepted, engineered, deployed, and maintained **MR to PO Mainframe Automation**, a Visual Basic 5 (VB5) desktop application integrated with Hummingbird Host-Explorer terminal emulation. The engine automated the ingestion of daily FTP Material Request (MR) reports, cross-referenced exceptional vendor /part verification rules, auto-calculated pricing entries, and executed direct Purchase Order (PO) keying into the legacy USA mainframe — with zero local database persistence, pushing all completion outputs directly to MS Excel.
 * **Impact & Key Deliverables:**
   * **$67,690 Hard Cost Savings:** Delivered direct, auditable financial savings by slashing manual processing cycle times and eliminating high-cost human keying errors.
   * **80%+ Cycle Time Reduction per PO:** Compressed processing time from **05–06 minutes per PO down to seconds**, drastically accelerating part fulfilment to GE Warehouses across North America.
   * **Zero-Data-Storage Architecture:** Engineered a privacy-compliant, zero-persistence pipeline (eliminating local database storage) that loads FTP data in memory and writes output directly to MS Excel workbooks to strictly align with GEMS data privacy mandates.
   * **Unified Single-Screen Decision & Keying Interface:** Replaced manual toggling between spreadsheets, vendor lookup sheets, and green-screen terminals with an integrated VB5 GUI that presented decision-making context and executed order placements in a single click.
-  * **Embedded Exception & Typo Interceptor:** Built strict programmatic validation rules that pre-screened material requests for exceptional vendors/parts and validated unit prices before committing transactions to the mainframe.
+  * **Embedded Exception & Typo Interceptor:** Built strict programmatic validation rules that pre-screened material requests for exceptional vendors/ parts and validated unit prices before committing transactions to the mainframe.
 * **Core Stack:** Visual Basic 5 (VB5 GUI & OOPs Terminal Session Objects), Hummingbird Host-Explorer (EHLLAPI/ OLE Automation Drivers), Mainframe Terminal Sessions (3270 Emulation), FTP File Parser (In-Memory Report Ingestion), MS Excel API.
 
 ---
@@ -37,7 +37,7 @@ The Global Asset Management (GAM) India team within GEMS USA managed proactive i
 
 ```
 
-* **Best Practice Opportunity:** Following the floor-wide success of Project 18, GEMS USA leadership invited me to replicate the terminal emulation architecture to solve this manual keying bottleneck.
+* **Best Practice Opportunity:** Following the success of **[Project 18 (GELS Backorder Automation)](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment/tree/main/18-GELS-Backorder-Search-Automation)**, GEMS USA leadership invited me to replicate the terminal emulation architecture to solve this manual keying bottleneck.
 
 ---
 
@@ -105,10 +105,9 @@ The solution established an automated FTP-to-Mainframe pipeline powered by **VB5
 
 ## 5. Key Leadership & Technical Competencies Demonstrated:
 
-* **Best Practice Replication & Cross-Pollination:** Successfully adapting and scaling a proven terminal automation architecture (Project 18) to solve distinct operational challenges in new business units (GEMS USA).
-* **Hard Cost Reduction Engineering:** Aligning technical software design directly with measurable financial outcomes ($67,690 hard savings).
+* **Best Practice Replication & Cross-Pollination:** Successfully adapting and scaling a proven terminal automation architecture (**[Project 18 (GELS Backorder Automation)](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment/tree/main/18-GELS-Backorder-Search-Automation)**) to solve distinct operational challenges in new business units/regions (GEMS USA).
+* **Hard Cost Reduction Engineering:** Aligning technical software design directly with measurable financial outcomes.
 * **Privacy-Compliant Desktop Architecture:** Ensuring zero local database footprint by streaming runtime data through volatile memory directly into MS Excel outputs.
 * **Poka-Yoke (Mistake-Proofing) System Design:** Inserting automated validation controls into desktop software to prevent human typo errors before they hit core mainframes.
-
 
 ---

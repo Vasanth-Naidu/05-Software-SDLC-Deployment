@@ -67,5 +67,26 @@
 * **No-Code / Low-Code Tool Architecture:** Designing intuitive drag-and-drop user interfaces (SQL Genie) that hide complex SQL logic from end-users.
 * **Enterprise Software Scaling & Internal Marketing:** Managing end-to-end SDLC, user tech support, and cross-departmental product marketing to scale adoption to 9,000+ users.
 
+---
+
+### Key Project Case Studies:
+
+* 📝 **[Project 16: Cendant Wizard — Contract & Lease Audit Engine](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment/blob/main/16-Cendant-Wizard-Contract-Audit/Case-Study.md)**
+  * *Audit calculations, memory-staged contract validation, $84,000 hard savings.*
+
+* 📊 **[Project 17: Solution Wizard — Automated Reporting & SLA Engine](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment/blob/main/17-Solution-Wizard-Automated-Reporting/Case-Study.md)**
+  * *01-click multi-system SLA aggregation, zero-data-storage Excel sync, $50,000 hard savings.*
+
+* 🖥️ **[Project 18: GELS Backorder Search Automation — Dual-Mainframe Engine](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment/blob/main/18-GELS-Backorder-Search-Automation/Case-Study.md)**
+  * *Dual Hummingbird 3270 terminal OOP control, 10,000 parts/day, compressed 03 FTEs into <03 hours.*
+
+* ⚙️ **[Project 19: MR to PO Mainframe Automation — Purchase Order Engine](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment/blob/main/19-MR-to-PO-Mainframe-Automation/Case-Study.md)**
+  * *Automated FTP Material Request ingestion to 3270 PO keying, $67,690 hard savings.*
+
+* 📢 **[Project 20: Anukāra — Enterprise Knowledge Ticker & Emergency Platform](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment/blob/main/20-Anukara-Enterprise-Communication-Platform/Case-Study.md)**
+  * *Draggable neutral-gray title-bar ticker, MS-SQL search, scaled to 9,000+ active users.*
+
+* 🧞 **[Project 21: SQL Genie — Drag-and-Drop Visual Query Builder](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment/blob/main/21-SQL-Genie-Visual-Query-Builder/Case-Study.md)**
+  * *Ahead-of-its-time pre-BI no-code SQL generator, proactive database guardrails, $0 license cost.*
 
 ---

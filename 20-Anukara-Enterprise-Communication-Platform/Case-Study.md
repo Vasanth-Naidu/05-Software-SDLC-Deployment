@@ -45,6 +45,8 @@ In high-volume Business Process Outsourcing (BPO) operations, trainers and team 
 
 ## 2. System Architecture & High-Concurrency Split:
 
+![Anukara System Architecture](./Assets/20-Anukara-System-Architecture.png)
+
 ```text
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
 │                        ANUKĀRA ENTERPRISE TICKER PIPELINE                              │
@@ -94,6 +96,7 @@ In high-volume Business Process Outsourcing (BPO) operations, trainers and team 
 ---
 
 ## 4. Measurable Impact & Grass-roots Adoption Curve:
+![Anukara Before & After Transformation](./Assets/20-Anukara-Before-After-Transformation.png)
 
 | Operational Dimension | 🛑 Pre-Anukāra State | 🎯 Post-Deployment State (*Anukāra*) | ⚡ Strategic Impact |
 | --- | --- | --- | --- |

@@ -41,7 +41,7 @@ In 2001, newly migrated GECIS operational teams faced a major technical hurdle: 
 ---
 
 ## 2. System Architecture & Visual Query Assembly Pipeline:
-
+![SQL Genie System Architecture](./Assets/21-SQLGenie-System-Architecture.png)
 ```text
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
 │                      SQL GENIE VISUAL QUERY ASSEMBLY PIPELINE                          │
@@ -98,7 +98,7 @@ In 2001, newly migrated GECIS operational teams faced a major technical hurdle: 
 ---
 
 ## 4. Measurable Impact & Operational Value Delivered:
-
+![SQL Genie Before & After Transformation](./Assets/21-SQLGenie-Before-After-Transformation.png)
 | Operational Dimension | 🛑 Baseline State (Pre-SQL Genie) | 🎯 Post-Deployment State (*SQL Genie*) | ⚡ Strategic Impact |
 | --- | --- | --- | --- |
 | **SQL Technical Barrier** | Manual coding required by DBAs/Devs | **100% No-Code Drag-and-Drop** | Enabled non-technical operational leads to extract data independently. |

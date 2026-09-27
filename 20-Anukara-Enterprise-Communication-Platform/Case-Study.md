@@ -1,3 +1,5 @@
+**[🏠 Home](https://github.com/Vasanth-Naidu)**   |   **[↩️ Back to Repository](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment)**
+
 # 🛠️ Project 20: Anukāra — Enterprise Knowledge Ticker & Emergency Communication Platform
 
 ## Executive Overview:
@@ -96,7 +98,7 @@ In high-volume Business Process Outsourcing (BPO) operations, trainers and team 
 ---
 
 ## 4. Measurable Impact & Grass-roots Adoption Curve:
-![Anukara Before & After Transformation](./Assets/20-Anukara-Before-After-Transformation.png)
+![Anukāra Before & After Transformation](./Assets/20-Anukara-Before-After-Transformation.png)
 
 | Operational Dimension | 🛑 Pre-Anukāra State | 🎯 Post-Deployment State (*Anukāra*) | ⚡ Strategic Impact |
 | --- | --- | --- | --- |
@@ -115,3 +117,7 @@ In high-volume Business Process Outsourcing (BPO) operations, trainers and team 
 * **Continuous Product Maintenance & Ownership:** Serving as the sole developer, maintainer, and feature-enhancer throughout my tenure at GECIS, ensuring 100% uptime for 9,000+ users.
 * **High-Concurrency Database Architecture:** Designing a decoupled VB5/ MS-SQL Server architecture tailored for thousands of simultaneous reads and queries.
 * **Human-Centered UI/UX Ergonomics:** Crafting non-intrusive micro-interfaces that blend visually into native OS elements while offering flexible user docking preferences.
+
+---
+
+**[🏠 Home](https://github.com/Vasanth-Naidu)**   |   **[↩️ Back to Repository](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment)**

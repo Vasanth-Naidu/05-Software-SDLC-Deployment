@@ -1,3 +1,5 @@
+**[🏠 Home](https://github.com/Vasanth-Naidu)**   |   **[↩️ Back to Repository](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment)**
+
 # 🛠️ Project 17: Solution Wizard — Self-Service SQL Analytics & Automated Executive Reporting Platform
 
 ## Executive Overview:
@@ -125,3 +127,5 @@ Collaborating as the lead developer during the *Analyse & Improve* stages of the
 * **Usage Telemetry & Control Governance:** Building back-end telemetry to track query execution, user activity, tool performance, and error rates to sustain long-term adoption.
 
 ---
+
+**[🏠 Home](https://github.com/Vasanth-Naidu)**   |   **[↩️ Back to Repository](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment)**

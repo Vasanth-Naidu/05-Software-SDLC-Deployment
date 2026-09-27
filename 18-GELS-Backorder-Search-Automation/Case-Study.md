@@ -1,3 +1,5 @@
+**[🏠 Home](https://github.com/Vasanth-Naidu)**   |   **[↩️ Back to Repository](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment)**
+
 # 🛠️ Project 18: GELS Backorder Search Automation — Dual-Mainframe Inventory Alignment & Order Placement Engine
 
 ## Executive Overview:
@@ -116,3 +118,5 @@ The solution established a programmatic, dual-terminal object model in **VB5**:
 * **Strategic Desktop Automation Trendsetter:** Establishing a benchmark for citizen development at GECIS that proved small-scale, rule-based desktop automations deliver massive cumulative ROI.
 
 ---
+
+**[🏠 Home](https://github.com/Vasanth-Naidu)**   |   **[↩️ Back to Repository](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment)**

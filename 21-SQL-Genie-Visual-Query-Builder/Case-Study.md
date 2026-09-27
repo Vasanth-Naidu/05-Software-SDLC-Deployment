@@ -1,3 +1,5 @@
+**[🏠 Home](https://github.com/Vasanth-Naidu)**   |   **[↩️ Back to Repository](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment)**
+
 # 🛠️ Project 21: SQL Genie — Drag-and-Drop Visual Query Builder & Data Extraction Engine
 
 ## Executive Overview:
@@ -117,3 +119,5 @@ In 2001, newly migrated GECIS operational teams faced a major technical hurdle: 
 * **Enterprise Software Cost Optimisation:** Replacing costly third-party commercial software with custom, lightweight internal solutions.
 
 ---
+
+**[🏠 Home](https://github.com/Vasanth-Naidu)**   |   **[↩️ Back to Repository](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment)**

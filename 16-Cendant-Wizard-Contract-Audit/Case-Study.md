@@ -1,3 +1,5 @@
+**[🏠 Home](https://github.com/Vasanth-Naidu)**   |   **[↩️ Back to Repository](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment)**
+
 # 🛠️ Project 16: Cendant Wizard — Contract Audit Automation Engine & Backlog Elimination Platform
 
 ## Executive Overview:
@@ -128,3 +130,5 @@ To guarantee software stability and build trust across the audit floor:
 * **Six Sigma Green Belt Execution:** Combined Lean/Six Sigma defect reduction principles with desktop automation to drive enterprise-level transformation.
 
 ---
+
+**[🏠 Home](https://github.com/Vasanth-Naidu)**   |   **[↩️ Back to Repository](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment)**
